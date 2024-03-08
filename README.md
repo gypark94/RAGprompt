@@ -37,5 +37,7 @@ For any questions or feedback, please contact us at gypark@korea.ac.kr
 
 ## References
 https://python.langchain.com/docs/use_cases/question_answering/
-https://huggingface.co/models?sort=trending&search=gguf
+
+https://huggingface.co/models?sort=trending&search=gguf.
+
 Liu, Yilun, et al. "Logprompt: Prompt engineering towards zero-shot and interpretable log analysis." arXiv preprint arXiv:2308.07610 (2023).
