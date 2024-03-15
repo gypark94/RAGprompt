@@ -1,10 +1,11 @@
-# Ragpromt: Log Anomaly Detection with RAG (Retriever Augmented Generation)
+# ADRAG: Log Anomaly Detection using RAG (Retriever Augmented Generation)
+LLM Model: 
 
 ![RAGPromt Logo](link-to-logo.png)
 
 ## Overview
 
-Ragpromt is an open-source project designed for detecting anomalies in log data using the power of large language models, specifically leveraging RAG (Retriever Augmented Generation). This tool combines retriever models to efficiently retrieve relevant information from logs and generation models to identify anomalies, providing a robust solution for log anomaly detection.
+ADRAG is an open-source project designed for detecting anomalies in log data using the power of large language models, specifically leveraging RAG (Retriever Augmented Generation). This tool combines retriever models to efficiently retrieve relevant information from logs and generation models to identify anomalies, providing a robust solution for log anomaly detection.
 
 ## Features
 
@@ -22,10 +23,10 @@ pip install ragpromt
 ## Usage
 
 ## Configuration
-You can customize the behavior of Ragpromt by adjusting configuration parameters. Refer to CONFIGURATION.md for detailed instructions.
+You can customize the behavior of ADRAG by adjusting configuration parameters. Refer to CONFIGURATION.md for detailed instructions.
 
 ## Contributing
-If you'd like to contribute to Ragpromt, please check out our contribution guidelines.
+If you'd like to contribute to ADRAG, please check out our contribution guidelines.
 
 ## License
 This project is licensed under the MIT License.
