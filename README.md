@@ -1,7 +1,4 @@
 # ADRAG: Log Anomaly Detection using RAG (Retriever Augmented Generation)
-LLM Model: 
-
-![RAGPromt Logo](link-to-logo.png)
 
 ## Overview
 
