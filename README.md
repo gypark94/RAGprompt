@@ -7,7 +7,7 @@ LLM Model:
 
 ADRAG is an open-source project designed for detecting anomalies in log data using the power of large language models, specifically leveraging RAG (Retriever Augmented Generation). This tool combines retriever models to efficiently retrieve relevant information from logs and generation models to identify anomalies, providing a robust solution for log anomaly detection.
 
-![image](https://github.com/gypark94/RAGprompt/assets/25690002/aadf94f8-89ca-4e98-903d-4ad7ecf7b716)
+![image](https://github.com/gypark94/RAGprompt/assets/25690002/55f891f9-bfc3-4283-8492-efa96028e234)
 
 
 ## Features
