@@ -20,7 +20,11 @@ bash
 pip install ragpromt
 
 
-## Usage
+## Model
+Mistral-7B-Instruct-v0.2-GGUF(https://huggingface.co/TheBloke/Mistral-7B-Instruct-v0.2-GGUF)
+
+## Development Environment
+Google Colab
 
 ## Configuration
 You can customize the behavior of ADRAG by adjusting configuration parameters. Refer to CONFIGURATION.md for detailed instructions.
