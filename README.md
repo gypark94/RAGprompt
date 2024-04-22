@@ -1,8 +1,8 @@
-# ADRAG: Log Anomaly Detection using RAG (Retriever Augmented Generation)
+# Log Anomaly Detection using RAG(Retrieval Augmented Generation)
 
 ## Overview
 
-ADRAG is an open-source project designed for detecting anomalies in log data using the power of large language models, specifically leveraging RAG (Retriever Augmented Generation). This tool combines retriever models to efficiently retrieve relevant information from logs and generation models to identify anomalies, providing a robust solution for log anomaly detection.
+This project is designed for detecting anomalies in log data using RAG (Retrieval Augmented Generation). This tool combines RAG to efficiently retrieve relevant information from logs and generation models to identify anomalies, providing a robust solution for log anomaly detection.
 
 ![image](https://github.com/gypark94/RAGprompt/assets/25690002/55f891f9-bfc3-4283-8492-efa96028e234)
 
